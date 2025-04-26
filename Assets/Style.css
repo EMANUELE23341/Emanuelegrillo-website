@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: gold;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  padding: 20px;
+}
+
+a {
+  color: gold;
+  text-decoration: none;
+  font-weight: bold;
+}
